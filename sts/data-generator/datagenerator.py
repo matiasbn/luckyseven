@@ -1,4 +1,4 @@
-from '../' import Luckyseven
+from luckyseven import Luckyseven
 
 # Parameters
 b = 1
@@ -8,10 +8,11 @@ p = 10000
 i = 5877
 j = 200
 
-luckyseven = Luckyseven()
+l7 = Luckyseven()
 
 # Print result
-print(luckyseven.generateNumber(b, n, mu, i, j, p))
+print(l7.prng(b, n, mu, i, j, p))
 
 
-# print()
+mu = 
+print(l7.prng(b, n, mu, i, j, p))

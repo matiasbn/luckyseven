@@ -1,14 +1,10 @@
-from luckyseven import Luckyseven
+from decimal import *
 
-# # Parameters
-# b = 1
-# n = 8
-# mu = 7192
-# p = 10000
-# i = 5877
-# j = 200
 
-# luckyseven = Luckyseven()
-
-# # Print result
-# print(luckyseven.generateNumber(b, n, mu, i, j, p))
+class Luckyseven:
+    def prng(self, b, n, mu, i, j, p):
+        getcontext().prec = p
+        M = Decimal(b) / Decimal(10 ** n - mu)
+        P = (10 ** p) * M
+        R = (P % 10 ** (i + j) - P % 10 ** i) / 10 ** i
+        return R
