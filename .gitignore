@@ -1,0 +1,6 @@
+lib/python/Luckyseven/__pycache__
+lib/python/Luckyseven/luckyseven_env
+lib/python/Luckyseven/build/bdist.macosx-10.9-x86_64
+lib/python/Luckyseven/dist
+lib/python/Luckyseven/luckyseven_matiasbn.egg-info
+.vscode
