@@ -4,3 +4,4 @@ lib/python/dist
 lib/python/luckyseven.egg-info
 .idea
 __pycache__
+sts/.DS_Store
