@@ -12,7 +12,3 @@ l7 = Luckyseven()
 
 # Print result
 print(l7.prng(b, n, mu, i, j, p))
-
-
-mu = 
-print(l7.prng(b, n, mu, i, j, p))
