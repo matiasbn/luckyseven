@@ -12,11 +12,12 @@ j = 80
 l7 = Luckyseven()
 
 sampleSize = 7*10**4
+streamLength = 256
 
 for sample in range(1, sampleSize):
     print(sample)
     mu = random.randint(0, 10**5)
     randomNumber = int(l7.prng(b, n, mu, i, j, p))
-    binaryNumber = format(randomNumber, 'b').zfill(256)[:256]
+    binaryNumber = format(randomNumber, 'b').zfill(streamLength)[:streamLength]
     with open("data.luckyseven", "a") as datafile:
         datafile.write(f'{binaryNumber}\n')
