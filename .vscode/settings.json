@@ -1,5 +1,5 @@
 {
   "python.linting.enabled": true,
   "python.venvPath": "~/sts/data-generator/env",
-  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3"
+  "python.pythonPath": "sts/data-generator/env/bin/pip3"
 }

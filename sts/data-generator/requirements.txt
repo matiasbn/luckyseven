@@ -13,6 +13,7 @@ idna==2.10
 isort==5.4.2
 keyring==21.3.1
 lazy-object-proxy==1.4.3
+luckyseven==0.0.3
 mccabe==0.6.1
 numpy==1.19.1
 packaging==20.4
