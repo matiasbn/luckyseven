@@ -1,7 +1,7 @@
 sts/data-generator/env
-lib/python/build
-lib/python/dist
-lib/python/luckyseven.egg-info
+libs/python/build
+libs/python/dist
+libs/python/luckyseven.egg-info
 .idea
 __pycache__
 sts/.DS_Store
