@@ -16,7 +16,7 @@ This repository is intended to:
 
 # Supported languages
 
-- [ ] Python
+- [x] Python
 - [ ] JavaScript
 - [ ] TypeScript
 - [ ] C
