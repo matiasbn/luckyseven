@@ -1,4 +1,4 @@
-# Statistical Test Suite
+1;# Statistical Test Suite
 
 Here i'm going to write the results and it analysis.
 
@@ -16,7 +16,7 @@ data-generator is a script that uses the Luckyseven library along with a rng to 
 
 ## Luckyseven samples
 
-data.luckyseven contains 70k samples of 256 "ASCII 0's or 1's" as a binary representation of the samples obtained through the data-generator script.
+data.luckyseven contains 30k samples of 4096 "ASCII 0's or 1's" as a binary representation of the samples obtained through the data-generator script.
 
 ## Significance level
 
