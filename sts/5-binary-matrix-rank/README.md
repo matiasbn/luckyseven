@@ -13,8 +13,8 @@ This are the values of non-default parameters.
 
 ## Values
 
-- n: 50.000
-- m: 10000
+- n: 38912
+- m: 4000
 
 # Results
 

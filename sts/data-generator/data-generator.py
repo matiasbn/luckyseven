@@ -29,7 +29,7 @@ for process in range(2):
 
 id = random.randint(0, 10000)
 
-sampleSize = 100
+sampleSize = 10000
 # print(sampleSize)
 streamLength = 4096
 
@@ -44,9 +44,9 @@ for sample in range(0, sampleSize):
 
 for child in children:
     try:
-        os.waitpid(child, 0)
+        os.waitpid(child, 0);
     except:
-        pass
+        pass;
 
 # Only parent process
 
