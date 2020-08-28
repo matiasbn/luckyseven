@@ -13,7 +13,7 @@ This are the values of non-default parameters.
 
 ## Values
 
-- n: 256
+- n: 4096
 - m: 5000
 
 # Results
@@ -24,4 +24,4 @@ random excursion (variant) test is approximately = 4988 for a
 sample size = 5000 binary sequences.
 ```
 
-Being the proportion equal to 4996/5000 [result/finalAnalysisReport.txt], this test can be considered as PASSED.
+Being the proportion equal to 4992/5000 [result/finalAnalysisReport.txt], this test can be considered as PASSED.

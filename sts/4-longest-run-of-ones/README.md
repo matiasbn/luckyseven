@@ -26,4 +26,4 @@ random excursion (variant) test is approximately = 4988 for a
 sample size = 5000 binary sequences.
 ```
 
-Being the proportion equal to 4997/5000 [result/finalAnalysisReport.txt], this test can be considered as PASSED.
+Being the proportion equal to 4995/5000 [result/finalAnalysisReport.txt], this test can be considered as PASSED.

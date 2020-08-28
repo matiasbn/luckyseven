@@ -17,14 +17,15 @@ This are the values of non-default parameters.
 
 ## Values
 
-- n: 256
+- n: 4096
 - m: 5000
 
 # Results
 
 ```
-The minimum pass rate for each statistical test with the exception of the random excursion (variant) test is approximately = 4988 for a
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 4988 for a
 sample size = 5000 binary sequences.
 ```
 
-Being the proportion equal to 4998/5000 [result/finalAnalysisReport.txt], this test can be considered as PASSED.
+Being the proportion equal to 4993/5000 [result/finalAnalysisReport.txt], this test can be considered as PASSED.
