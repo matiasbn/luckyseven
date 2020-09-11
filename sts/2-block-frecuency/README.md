@@ -22,11 +22,4 @@ This are the values of non-default parameters.
 - M: 128
 
 # Results
-
-```
-The minimum pass rate for each statistical test with the exception of the
-random excursion (variant) test is approximately = 4988 for a
-sample size = 5000 binary sequences.
-```
-
-Being the proportion equal to 9984/10000 [result/finalAnalysisReport.txt], this test can be considered as PASSED.
+Pendant
